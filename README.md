@@ -1,4 +1,4 @@
-<div align="center">
+#<div align="center">
 
 [![Build Status](https://github.com/shopware/platform/workflows/PHPUnit/badge.svg)](https://github.com/shopware/platform/actions)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/shopware/platform/badges/quality-score.png)](https://scrutinizer-ci.com/g/shopware/platform/)
